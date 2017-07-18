@@ -1,0 +1,14 @@
+h1 {
+	font-size: 200%;
+	
+}
+
+p {
+	font-size: 20px;
+}
+* {
+	font-family: Georgia;
+}
+ul {
+	list-style-position: inside;
+}
